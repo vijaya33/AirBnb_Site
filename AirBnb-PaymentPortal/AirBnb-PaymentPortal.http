@@ -1,0 +1,6 @@
+@AirBnb_PaymentPortal_HostAddress = http://localhost:5147
+
+GET {{AirBnb_PaymentPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AirBnb_Site", "AirBnb_Site\AirBnb_Site.pyproj", "{CAF50066-E389-4FF6-BF91-2FD9EA2E2992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirBnb-PaymentPortal", "AirBnb-PaymentPortal\AirBnb-PaymentPortal.csproj", "{D2F5750D-E23D-49B3-A919-01FCF816972E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CAF50066-E389-4FF6-BF91-2FD9EA2E2992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAF50066-E389-4FF6-BF91-2FD9EA2E2992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAF50066-E389-4FF6-BF91-2FD9EA2E2992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F5750D-E23D-49B3-A919-01FCF816972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F5750D-E23D-49B3-A919-01FCF816972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F5750D-E23D-49B3-A919-01FCF816972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F5750D-E23D-49B3-A919-01FCF816972E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
