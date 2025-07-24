@@ -19,5 +19,5 @@ License
 
 Built By
   Vijaya Laxmi Kumbaji 
-  Cloud Architect | Senior .NET Developer | Lead .NET Developer | Full stack Developer / Python AI/ML Developer 
+  Cloud Architect | Senior .NET Developer | Lead .NET Developer | Full stack Developer / Python AI/ML Developer | 
 
